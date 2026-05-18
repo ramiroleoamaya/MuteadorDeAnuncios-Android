@@ -1,4 +1,4 @@
-# Muteador de Anuncios para Spotify (Android) 🎧🚫
+# Muteador de Anuncios para Spotify (Android)# Spotify Ad Muter for Android | Nativo con Kotlin & Jetpack Compose 🎧🚫
 
 ¡Mi primer proyecto de desarrollo mobile! Es una herramienta nativa para Android enfocada en mejorar la experiencia del usuario al escuchar música, automatizando el control del volumen multimedia ante contenido publicitario.
 
